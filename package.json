@@ -1,0 +1,50 @@
+{
+  "name": "beeroya",
+  "version": "1.0.0",
+  "description": "Arabic translation service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "9.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoudswaid/beeroya.git"
+  },
+  "keywords": [
+    "global",
+    "arabic",
+    "translation",
+    "service",
+    "contains",
+    "translation",
+    "phrases",
+    "sentences",
+    "pronunciation",
+    "synonyms",
+    "dictionries",
+    "arabic",
+    "german",
+    "english",
+    "spanish",
+    "frinch",
+    "turkish",
+    "russian",
+    "italian",
+    "dutch",
+    "portuguese",
+    "polish",
+    "japanese"
+  ],
+  "author": "Mahmoud Swaid",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mahmoudswaid/beeroya/issues"
+  },
+  "homepage": "https://github.com/mahmoudswaid/beeroya#readme",
+}
