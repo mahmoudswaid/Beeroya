@@ -10,11 +10,7 @@
     "express": "^4.13.3"
   },
   "engines": {
-    "node": "9.2.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mahmoudswaid/beeroya.git"
+    "node": "4.0.0"
   },
   "keywords": [
     "global",
@@ -42,9 +38,5 @@
     "japanese"
   ],
   "author": "Mahmoud Swaid",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/mahmoudswaid/beeroya/issues"
-  },
-  "homepage": "https://github.com/mahmoudswaid/beeroya#readme",
+  "license": "GPL-3.0"
 }
